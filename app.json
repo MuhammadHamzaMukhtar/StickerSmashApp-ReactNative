@@ -48,6 +48,12 @@
         "projectId": "e982e652-2ff1-441e-ae7f-fc1b7f93a6ee"
       }
     },
-    "owner": "hamza.ikonic"
+    "owner": "hamza.ikonic",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e982e652-2ff1-441e-ae7f-fc1b7f93a6ee"
+    }
   }
 }
